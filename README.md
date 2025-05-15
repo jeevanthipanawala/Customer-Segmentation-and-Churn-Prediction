@@ -38,8 +38,8 @@ Prerequisites
 
 project-directory/
 ├── Data/
-│   └── online_retail_II.xlsx
-├── Implementation/
+│   └── online_retail_II.xlsx (Download from here https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+├── src/
 │   └── customer_segmentation.ipynb
 │   └── churn_prediction.ipynb 
     └── marketing_recommendations.ipynb
