@@ -1,5 +1,5 @@
  Customer Segmentation and Churn Prediction 
-(An Assignment of Machine Learning Course in Masters Programme in Software Engineering)
+(An Assignment of Machine Learning Course in Masters Programme in Software Engineering) - Blekinge Institutie of Technology
 ====================================================================================================================================================
 
 Overview
